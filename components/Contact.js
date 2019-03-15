@@ -8,7 +8,7 @@ var Contact = React.createClass({
         <img
           className="contactImage"
           src={
-            "http://icons.veryicon.com/256/System/Dynamic%20Yosemite/Contacts.png"
+            "https://icons.veryicon.com/256/System/Dynamic%20Yosemite/Contacts.png"
           }
         />
         <div className="label-wrapper">
